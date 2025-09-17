@@ -3,7 +3,7 @@
 
 This is my personal portfolio website showcasing my skills, projects, and services in **Information Systems, Cybersecurity, and Software Development**.  
 
-🔗 **Live Site:** [https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)  
+🔗 **Live Site:** (https://gmpatem.github.io/portfolio/)  
 
 ---
 
